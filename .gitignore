@@ -34,3 +34,25 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+Chapter1_Introduction.ipynb
+
+Chapter2 MorePyMC.ipynb
+
+Chapter3 IntroMCMC.ipynb
+
+Chapter4 LawOfLargeNumbers.ipynb
+
+Chapter5 LossFunctions.ipynb
+
+Pivotal Test.ipynb
+
+Prototyping.ipynb
+
+Realytics.ipynb
+
+Recommender Assignments.ipynb
+
+SVD vs. PCA.ipynb
+
+pivotal for real.ipynb
