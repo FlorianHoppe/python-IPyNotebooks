@@ -34,7 +34,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
-
+.ipynb_checkpoints
 Chapter1_Introduction.ipynb
 
 Chapter2 MorePyMC.ipynb
